@@ -1,0 +1,2 @@
+# BullyBlocker
+Bully Blocker is a web application tool that allows users to submit a url which shows public comments on any website (i.e. Youtube, Facebook, Devpost) and detects harmful comments posted by users. The web app parses the words used by the commenter and identifies the potential harassers online. After that, Bully Blocker gives the user the option to report/flag the harmful comments by highlighting the comment.
